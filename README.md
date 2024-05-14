@@ -1,4 +1,4 @@
-# Bootstrap v5 Theme Kit
+# An Assignment for Ostad MERN Batch 6, Nodule 5
 
 ## Prerequisites
 
